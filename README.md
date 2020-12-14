@@ -3,6 +3,4 @@
 
 some updates
 
-Edit example branch
-
-Now some edits
+Updates made on master on Github before rebase
